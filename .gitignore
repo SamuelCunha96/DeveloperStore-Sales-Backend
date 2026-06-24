@@ -427,3 +427,5 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+.idea/.idea.DeveloperStore/.idea/.gitignore
+.idea/.idea.DeveloperStore/.idea/encodings.xml
