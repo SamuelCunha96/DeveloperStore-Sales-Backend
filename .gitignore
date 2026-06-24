@@ -429,3 +429,6 @@ FodyWeavers.xsd
 *.msp
 .idea/.idea.DeveloperStore/.idea/.gitignore
 .idea/.idea.DeveloperStore/.idea/encodings.xml
+.idea/.idea.DeveloperStore/.idea/.name
+.idea/.idea.DeveloperStore/.idea/indexLayout.xml
+.idea/.idea.DeveloperStore/.idea/vcs.xml
